@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://example.org" #without ending slash
+baseurl = "http://qgh2.github.com/id" #without ending slash
 languageCode = "en-us"
-title = "Hugo Identity Theme"
+title = "Lawyers in Hoodies"
 theme = "hugo-identity-theme"
 themesDir = "../.."
 
@@ -41,13 +41,13 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "Jane Powers"
+    name = "Gilles WEBER"
     # Avatars can be written to images/avatars/
     avatar = "jane.jpg"
-    position = "Lead Engineer"
-    livesIn = "[Munich, Germany](#some-maps-url)"
+    position = "Lawyer"
+    livesIn = "[Luxembourg, Luxembourg](#some-maps-url)"
     scope = [
-        "UX for [member dashboard](#)",
+        "Notary in training at [member dashboard](#)",
         "Maintainer for [awesome-project](#)",
         "Open Source [community management](#)"
       ]
@@ -69,7 +69,7 @@ Even new lines and other markdown styles are working within the bio."""
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
 
-    email = "your@email.com"
+    email = "gilles.weber@barreau.lu"
 
     # It is possible to substitute formspring with other providers
     # as an example the mailout plugin from caddy.
